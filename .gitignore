@@ -1,0 +1,6 @@
+data/history.json
+data/*.txt
+data/*.png
+data/cdp-shot-profile/
+node_modules/
+.env

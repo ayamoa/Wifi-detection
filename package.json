@@ -1,0 +1,14 @@
+{
+  "name": "wifi-detection",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A live 3D LAN discovery dashboard with measured signal bands, activity history and alerts.",
+  "scripts": {
+    "start": "node server.mjs",
+    "scan": "node scripts/scan-once.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
